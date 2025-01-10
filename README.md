@@ -43,7 +43,7 @@ Before running this project, make sure you have the following installed:
    ```bash
    git clone https://github.com/madyishere/OnlineLibrarySystem.git
 
-2. navigate to Poject directory
+2. navigate to Project directory
 3. install dependencies
     ```bash
     npm install 
